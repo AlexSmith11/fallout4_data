@@ -1,0 +1,32 @@
+Toughness,1,1,,If nothing else you can take a beating! Instantly gain +10 Damage Resistance,0004A0AB
+Toughness,1,2,9,You now have +20 damage resistance.,0004A0AE
+Toughness,1,3,18,You now have +30 damage resistance.,0004A0AF
+Toughness,1,4,31,You now have +40 damage resistance.,00065E5D
+Toughness,1,5,46,You now have +50 damage resistance.,00065E5E
+Lead Belly,2,1,,Your digestive tract has adjusted to the weirdness of the Wasteland! Take less radiation from eating or drinking.,0004A0B9
+Lead Belly,2,2,6,You take even less radiation from eating or drinking.,00024B00
+Lead Belly,2,3,17,You take no radiation from eating or drinking.,00024B01
+Lifegiver,3,1,,You embody wellness! Instantly gain +20 maximum Health.,0004A0CF
+Lifegiver,3,2,8,You instantly gain another +20 maximum Health.,001D2465
+Lifegiver,3,3,20,You instantly gain another +20 maximum Health and slowly regenerate lost Health.,001D2467
+Chem Resistant,4,1,,All the rush without the hassle! You're 50% less likely to get addicted when consuming Chems,0004A0D5
+Chem Resistant,4,2,22,You gain complete immunity to chem addiction.,00065E0C
+Aquagirl/Aquaboy,5,1,,Water is your ally. You no longer take radiation damage from swimming and can breathe underwater.,000E9453/000E36F9
+Aquagirl/Aquaboy,5,2,21,You become totally undetectable while submerged.,001D248E/001D248D
+Rad reseistant,6,1,,Exposure to the Wasteland has made you more resilient instantly granting +10 Radiation Resistance.,001D2479
+Rad reseistant,6,2,13,You now have +20 Radiation Resistance.,001D247A
+Rad reseistant,6,3,26,You now have +30 Radiation Resistance.,001D247B
+Rad reseistant,6,4,35,You now have +40 Radiation Resistance.,xx0423A4
+Adamantium Skeleton,7,1,,Your skeleton has been infused with indestructible metal reducing limb damage by 30%.,0004C92D
+Adamantium Skeleton,7,2,13,Your limb damage is now reduced by 60%.,00024AFD
+Adamantium Skeleton,7,3,26,Your limb damage is completely eliminated.,00024AFE
+Cannibal,8,1,,Feast on mortal flesh to heal your wounds! Eating human corpses restores Health.,0004B259
+Cannibal,8,2,19,Eating Ghoul or Super Mutant corpses restores Health.,001D1A62
+Cannibal,8,3,38,Eating human Ghoul or Super Mutant corpses now restores a significant amount of Health.,001D1A63
+Ghoulish,9,1,,Sure you're still human - on the outside! Radiation now regenerates your lost Health.,0004D89E
+Ghoulish,9,2,24,Radiation now regenerates even more of your lost Health.,6.50E+23
+Ghoulish,9,3,48,Radiation now regenerates even more of your lost Health and some Feral Ghouls will randomly become friendly.,6.50E+24
+Ghoulish,9,4,50,Rad damage will now begin to slowly heal restoring health in the process.,xx028A25
+Solar Powered,10,1,,Catch some rays! Gain +2 to Strength and Endurance between the hours of 6:00 a.m. and 6:00 p.m.,0004D8A7
+Solar Powered,10,2,27,Sunlight slowly heals your radiation damage.,001D2484
+Solar Powered,10,3,50,Sunlight slowly regenerates your lost Health.,001D2485

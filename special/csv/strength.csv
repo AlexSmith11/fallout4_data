@@ -1,0 +1,40 @@
+Iron Fist,1,1,,Channel your chi to unleash devastating fury! Punching attacks do 20% more damage to your opponent.,0001DAFE
+Iron Fist,1,2,9,Punching attacks now do 40% more damage and can disarm your opponent.,0001DAFF
+Iron Fist,1,3,18,Punching attacks now do 60% more damage. Unarmed Power Attacks have a chance to cripple one of your opponent's limbs.,0001DB00
+Iron Fist,1,4,31,Punching attacks now do 80% more damage. Unarmed Power Attacks have an increased chance to cripple one of your opponent's limbs.,6.50E+43
+Iron Fist,1,5,46,Punching attacks now do double damage. Criticals in V.A.T.S. will paralyze your opponent.,6.50E+44
+Big Leagues,2,1,,Swing for the fences! Do 20% more melee weapon damage.,0004A0B5
+Big Leagues,2,2,7,You now do 40% more melee weapon damage and gain a chance to disarm your opponent.,000E36FC
+Big Leagues,2,3,15,You now do 60% more melee weapon damage and gain an increased chance to disarm your opponent.,000E36FD
+Big Leagues,2,4,27,You now do 80% more melee weapon damage and hit all targets in front of you.,000E36FE
+Big Leagues,2,5,42,You now do double damage with a melee weapon and gain a chance to cripple your opponent or grand slam their head clean off!,6.50E+06
+Armorer,3,1,,Protect yourself from the dangers of the Wasteland with access to base level and Rank 1 armor mods.,0004B254
+Armorer,3,2,13,You gain access to Rank 2 armor mods.,0004B255
+Armorer,3,3,25,You gain access to Rank 3 armor mods.,0004B256
+Armorer,3,4,39,You gain access to Rank 4 armor mods.,001797EA
+Blacksmith,4,1,,Fire up the forge and gain access to base level and Rank 1 melee weapon mods.,0004B253
+Blacksmith,4,2,16,You gain access to Rank 2 melee weapon mods.,0004B26A
+Blacksmith,4,3,29,You gain access to Rank 3 melee weapon mods.,000264D8
+Heavy Gunner,5,1,,Thanks to practice and conditioning heavy guns do 20% more damage.,0004A0D6
+Heavy Gunner,5,2,11,Heavy guns now do 40% more damage and have improved hip fire accuracy.,0004A0D7
+Heavy Gunner,5,3,21,Heavy guns now do 60% more damage. Hip fire accuracy is increased even more.,0004A0D8
+Heavy Gunner,5,4,35,Heavy guns now do 80% more damage and have a chance to stagger your opponent.,00065E2A
+Heavy Gunner,5,5,47,Heavy guns now do double damage.,00065E2B
+Strong Back,6,1,,What are you part pack mule? Gain +25 to carry weight,0004B24E
+Strong Back,6,2,10,You now have +50 to carry weight.,00065E5B
+Strong Back,6,3,20,When overencumbered you can use Action Points to run.,00065E5C
+Strong Back,6,4,30,When overencumbered you can fast travel.,001D2489
+Strong Back,6,5,40,When overencumbered running costs 50% less action points.,xx0423A3
+Steady Aim,7,1,,Stay on target! Hip-fire accuracy is improved when firing any gun.,001D2487
+Steady Aim,7,2,28,Hip-fire accuracy is improved even more when firing any gun.,001D2488
+Steady Aim,7,3,49,Hip-fire damage is improved when firing any gun.,xx028A23
+Basher,8,1,,Get up close and personal! Gun bashing does 25% more damage.,00065DF9
+Basher,8,2,5,Gun bashing now does 50% more damage and possibly cripples your opponent.,00065DFA
+Basher,8,3,14,Gun bashing now does 75% more damage and has an increased chance to cripple your opponent.,00065DFB
+Basher,8,4,26,Gun bashing does double damage and has an increased chance to cripple your opponent. It may also inflict a Critical Hit.,00065DFC
+Rooted,9,1,,You're part tree! While standing still you gain +25 Damage Resistance and your melee and unarmed attacks deal 25% more damage.,001D247F
+Rooted,9,2,22,While standing still you now gain +50 Damage Resistance and your melee and unarmed attacks deal 50% more damage.,001D2480
+Rooted,9,3,43,While standing still you may automatically disarm enemies that use melee weapons against you.,001D2482
+Pain Train,10,1,,Choo Choo! All aboard! While wearing Power Armor sprinting into enemies hurts and staggers them. (Robots and oversized enemies are immune to the stagger.),0004D89B
+Pain Train,10,2,24,Sprinting into enemies while wearing Power Armor now causes severe damage and a more powerful stagger. (Robots and oversized enemies are immune to the stagger.),00065E3C
+Pain Train,10,3,50,Sprinting into enemies while wearing Power Armor now causes massive damage and knocks them down. Impact landing near enemies inflicts even more damage.,00065E3D

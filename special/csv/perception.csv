@@ -1,0 +1,35 @@
+Pickpocket,1,1,,Your quick hands and sticky fingers make picking pockets 25% easier.,0004D88A
+Pickpocket,1,2,6,Picking pockets is now 50% easier. You can place a live grenade in a person's inventory.,0.00E+00
+Pickpocket,1,3,17,Picking pockets is now 75% easier and you can steal equipped weapons.,0.00E+00
+Pickpocket,1,4,30,Picking pockets is now twice as easy and you can steal equipped items.,001D248F
+Rifleman,2,1,,Keep your distance long and your kill-count high. Attacks with non-automatic rifles do 20% more damage.,0004A0B6
+Rifleman,2,2,9,Attacks with non-automatic rifles do 40% more damage and ignore 15% of a target's armor.,0004A0B7
+Rifleman,2,3,18,Attacks with non-automatic rifles do 60% more damage and ignore 20% of a target's armor.,0004A0B8
+Rifleman,2,4,31,Attacks with non-automatic rifles do 80% more damage and ignore 25% of a target's armor. They also have a slight chance of crippling a limb.,0006FA20
+Rifleman,2,5,46,Attacks with non-automatic rifles do double damage and ignore 30% of a target's armor. They also have a slightly higher chance of crippling a limb.,6.50E+53
+Awareness,3,1,,To defeat your enemies know their weaknesses! You can view a target's specific damage resistances in V.A.T.S.,000D2287
+Awareness,3,2,14,Knowing their weaknesses lets you attack more efficiently. 5% increase to hit chance and damage dealt to VATS targets.,xx028A22
+Locksmith,4,1,,Your nimble fingers allow you to pick Advanced locks.,000523FF
+Locksmith,4,2,7,You can pick Expert locks.,52400
+Locksmith,4,3,18,You can pick Master locks.,52401
+Locksmith,4,4,41,Your bobby pins never break during lockpicking.,001D246A
+Demolition Expert,5,1,,The bigger the boom the better! Your explosives do 25% more damage and you can craft explosives at any chemistry station.,0004C923
+Demolition Expert,5,2,10,Your explosives do 50% more damage and grenades gain a throwing arc.,0004C924
+Demolition Expert,5,3,22,Your explosives do 75% more damage and affect a larger area.,0004C925
+Demolition Expert,5,4,34,Your explosives now do double damage. Mines and grenades shot in V.A.T.S explode for double damage too.,6.50E+14
+Night Person,6,1,,You are a creature of the night! Gain +2 to Intelligence and Perception between the hours of 6:00 p.m. and 6:00 a.m.,0004C93B
+Night Person,6,2,25,You now have +3 to Intelligence and Perception between the hours of 6:00 p.m. and 6:00 a.m. and night vision when sneaking.,001D2495
+Night Person,6,3,37,You have 30 extra health between the hours of 6:00 PM and 6:00 AM.,xx043222
+Refractor,7,1,,You must be part mirror! Instantly gain +10 Energy Resistance.,000CA99D
+Refractor,7,2,11,You now have +20 Energy Resistance.,000CA99E
+Refractor,7,3,21,You now have +30 Energy Resistance.,000CA99F
+Refractor,7,4,35,You now have +40 Energy Resistance.,00065E4B
+Refractor,7,5,42,You now have +50 Energy Resistance.,00065E4C
+Sniper,8,1,,It's all about focus. You have improved control and can hold your breath longer when aiming with scopes.,0004C92A
+Sniper,8,2,13,"""Non-automatic scoped rifles have a chance of knocking down your target."" Chance is 15%",0004C92B
+Sniper,8,3,26,Non-automatic scoped rifles gain +25% accuracy to head shot in V.A.T.S.,0004C92C
+Penetrator,9,1,,There's no place to hide! In V.A.T.S you can target an enemy's body parts that are blocked by cover with a decrease in accuracy.,00024AFF
+Penetrator,9,2,28,In V.A.T.S when you target an enemy's body parts that are blocked by cover there is no decrease in accuracy.,001D2477
+Concentrated Fire,10,1,,Stay Focused! In V.A.T.S every attack on the same body part gains +10% accuracy.,0004D890
+Concentrated Fire,10,2,26,In V.A.T.S every attack on the same body part gains +15% accuracy.,001D2459
+Concentrated Fire,10,3,50,In V.A.T.S every attack on the same body part gains +20% accuracy and does 20% more damage.,001D245A

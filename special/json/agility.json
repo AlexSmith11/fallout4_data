@@ -1,0 +1,282 @@
+[
+  {
+    "Name": "Gunslinger",
+    "SpecialRankRequirement": "1",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "Channel the spirit of the old west! Non-automatic pistols do 20% more damage.",
+    "FormId": "0004A09F"
+  },
+  {
+    "Name": "Gunslinger",
+    "SpecialRankRequirement": "1",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "7",
+    "Description": "Non-automatic pistols now do 40% more damage and have increased range.",
+    "FormId": "0004A0A9"
+  },
+  {
+    "Name": "Gunslinger",
+    "SpecialRankRequirement": "1",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "15",
+    "Description": "Non-automatic pistols now do 60% more damage and range is increased even further.",
+    "FormId": "0004A0AA"
+  },
+  {
+    "Name": "Gunslinger",
+    "SpecialRankRequirement": "1",
+    "PerkRank": "4",
+    "PlayerLevelRequirement": "27",
+    "Description": "Non-automatic pistols now do 80% more damage and their attacks can disarm opponents.",
+    "FormId": "0006FA1E"
+  },
+  {
+    "Name": "Gunslinger",
+    "SpecialRankRequirement": "1",
+    "PerkRank": "5",
+    "PlayerLevelRequirement": "42",
+    "Description": "Non-automatic pistols now do double damage. Their attacks have a much better chance to disarm opponents and may even cripple a limb.",
+    "FormId": "6.50E\u002B25"
+  },
+  {
+    "Name": "Commando",
+    "SpecialRankRequirement": "2",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "Rigorous combat training means automatic weapons do 20% more damage",
+    "FormId": "0004A0C5"
+  },
+  {
+    "Name": "Commando",
+    "SpecialRankRequirement": "2",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "11",
+    "Description": "Attacks with automatic weapons do 40% more damage with improved hip fire accuracy.",
+    "FormId": "0004A0C6"
+  },
+  {
+    "Name": "Commando",
+    "SpecialRankRequirement": "2",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "21",
+    "Description": "Attacks with automatic weapons do 60% more damage. Hip fire accuracy is improved even more.",
+    "FormId": "0004A0C7"
+  },
+  {
+    "Name": "Commando",
+    "SpecialRankRequirement": "2",
+    "PerkRank": "4",
+    "PlayerLevelRequirement": "35",
+    "Description": "Attacks with automatic weapons do 80% more damage and gain a chance to stagger opponents.",
+    "FormId": "0006FA24"
+  },
+  {
+    "Name": "Commando",
+    "SpecialRankRequirement": "2",
+    "PerkRank": "5",
+    "PlayerLevelRequirement": "49",
+    "Description": "Your automatic weapons now do double damage and have a greater chance to stagger opponents.",
+    "FormId": "00065E0D"
+  },
+  {
+    "Name": "Sneak",
+    "SpecialRankRequirement": "3",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "Become whisper become shadow. You are 20% harder to detect while sneaking.",
+    "FormId": "0004C935"
+  },
+  {
+    "Name": "Sneak",
+    "SpecialRankRequirement": "3",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "5",
+    "Description": "You are now 30% harder to detect while sneaking and no longer trigger floor-based traps.",
+    "FormId": "000B9882"
+  },
+  {
+    "Name": "Sneak",
+    "SpecialRankRequirement": "3",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "12",
+    "Description": "You are now 40% harder to detect while sneaking and no longer trigger enemy mines.",
+    "FormId": "000B9883"
+  },
+  {
+    "Name": "Sneak",
+    "SpecialRankRequirement": "3",
+    "PerkRank": "4",
+    "PlayerLevelRequirement": "23",
+    "Description": "You are now 50% harder to detect while sneaking and running no longer adversely affects stealth.",
+    "FormId": "000B9884"
+  },
+  {
+    "Name": "Sneak",
+    "SpecialRankRequirement": "3",
+    "PerkRank": "5",
+    "PlayerLevelRequirement": "38",
+    "Description": "Engaging stealth causes distant enemies to lose you.",
+    "FormId": "000B9881"
+  },
+  {
+    "Name": "Mister Sandman",
+    "SpecialRankRequirement": "4",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "As an agent of death you can instantly kill a sleeping person. Your silenced weapons do an additional 15% sneak attack damage.",
+    "FormId": "0004B258"
+  },
+  {
+    "Name": "Mister Sandman",
+    "SpecialRankRequirement": "4",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "17",
+    "Description": "Your silenced weapons do an additional 30% sneak attack damage.",
+    "FormId": "001D2490"
+  },
+  {
+    "Name": "Mister Sandman",
+    "SpecialRankRequirement": "4",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "30",
+    "Description": "Your silenced weapons now do 50% more sneak attack damage.",
+    "FormId": "001D2491"
+  },
+  {
+    "Name": "Action Boy/Action Girl",
+    "SpecialRankRequirement": "5",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "There\u0027s no time to waste! Action Points regenerate 25% faster.",
+    "FormId": "0004D869/0004D872"
+  },
+  {
+    "Name": "Action Boy/Action Girl",
+    "SpecialRankRequirement": "5",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "18",
+    "Description": "Your Action Points now regenerate 50% faster.",
+    "FormId": "00065DF5/00065DF6"
+  },
+  {
+    "Name": "Action Boy/Action Girl",
+    "SpecialRankRequirement": "5",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "38",
+    "Description": "Your Action Points now regenerate 75% faster.",
+    "FormId": "xx034E7F/xx034E80"
+  },
+  {
+    "Name": "Moving Target",
+    "SpecialRankRequirement": "6",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "They can\u0027t hurt what they can\u0027t hit! Get 25\u002B Damage Resistance and 25\u002B Energy Resistance when you\u0027re sprinting.",
+    "FormId": "0004DDEE"
+  },
+  {
+    "Name": "Moving Target",
+    "SpecialRankRequirement": "6",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "24",
+    "Description": "You now get \u002B50 Damage Resistance and \u002B50 Energy Resistance when you\u0027re sprinting.",
+    "FormId": "001D2492"
+  },
+  {
+    "Name": "Moving Target",
+    "SpecialRankRequirement": "6",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "44",
+    "Description": "Sprinting costs 50% fewer Action Points.",
+    "FormId": "001E0791"
+  },
+  {
+    "Name": "Ninja",
+    "SpecialRankRequirement": "7",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "Trained as a shadow warrior your ranged sneak attack do 2.5x normal damage and your melee attacks do 4x normal damage.",
+    "FormId": "0004D8A6"
+  },
+  {
+    "Name": "Ninja",
+    "SpecialRankRequirement": "7",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "16",
+    "Description": "Your ranged sneak attacks do 3x normal damage and your melee sneak attacks do 5x normal damage.",
+    "FormId": "0.00E\u002B00"
+  },
+  {
+    "Name": "Ninja",
+    "SpecialRankRequirement": "7",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "33",
+    "Description": "Your ranged sneak attacks do 3.5x normal damage and your melee sneak attacks do 10x normal damage.",
+    "FormId": "0.00E\u002B00"
+  },
+  {
+    "Name": "Quick Hands",
+    "SpecialRankRequirement": "8",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "In combat there\u0027s no time to hesitate. You can reload all guns faster.",
+    "FormId": "000221FC"
+  },
+  {
+    "Name": "Quick Hands",
+    "SpecialRankRequirement": "8",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "28",
+    "Description": "Reloading guns costs no Action Points in V.A.T.S.",
+    "FormId": "001D2478"
+  },
+  {
+    "Name": "Quick Hands",
+    "SpecialRankRequirement": "8",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "40",
+    "Description": "Quick and efficient. You gain 10 additional Action Points.",
+    "FormId": "xx0296BE"
+  },
+  {
+    "Name": "Blitz",
+    "SpecialRankRequirement": "9",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "Find the gap and make the tackle! V.A.T.S. melee distance is increased significantly.",
+    "FormId": "001D2451"
+  },
+  {
+    "Name": "Blitz",
+    "SpecialRankRequirement": "9",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "29",
+    "Description": "V.A.T.S. melee distance is increased even more and the farther the Blitz distance the greater the damage.",
+    "FormId": "001D2452"
+  },
+  {
+    "Name": "Gun Fu",
+    "SpecialRankRequirement": "10",
+    "PerkRank": "1",
+    "PlayerLevelRequirement": "",
+    "Description": "You\u0027ve learned to apply ancient martial arts to gunplay! Do 25% more damage to your second V.A.T.S. target and beyond.",
+    "FormId": "0004D881"
+  },
+  {
+    "Name": "Gun Fu",
+    "SpecialRankRequirement": "10",
+    "PerkRank": "2",
+    "PlayerLevelRequirement": "26",
+    "Description": "In V.A.T.S. you do 50% more damage to your third target and beyond.",
+    "FormId": "001D244F"
+  },
+  {
+    "Name": "Gun Fu",
+    "SpecialRankRequirement": "10",
+    "PerkRank": "3",
+    "PlayerLevelRequirement": "50",
+    "Description": "In V.A.T.S. you instantly do a Critical Hit against your fourth target and beyond.",
+    "FormId": "001D245C"
+  }
+]
